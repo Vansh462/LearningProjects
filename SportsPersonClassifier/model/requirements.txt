@@ -1,0 +1,7 @@
+PyWaveLets
+opencv-python
+seaborn
+pandas
+numpy
+scikit-learn
+
